@@ -1,4 +1,4 @@
-![image](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg)
+![image]
 <h1 align="center">Hi 👋, I'm Mavine muganda</h1>
 <h3 align="center">A passionate fullStack developer from Kenya</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavine1&label=Profile%20views&color=0e75b6&style=flat" alt="mavine1" /> </p>
