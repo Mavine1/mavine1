@@ -1,4 +1,3 @@
-![image]
 <h1 align="center">Hi 👋, I'm Mavine muganda</h1>
 <h3 align="center">A passionate fullStack developer from Kenya</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavine1&label=Profile%20views&color=0e75b6&style=flat" alt="mavine1" /> </p>
