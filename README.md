@@ -63,5 +63,5 @@
 </p>
 
 ## 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavine1&show_icons=true&locale=en&layout=compact" alt="mavine1" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mavine1&" alt="mavine1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavine1&show_icons=true&locale=en&layout=compact" alt="mavine1" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mavine1&" alt="mavine1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mavine1&show_icons=true&locale=en" alt="mavine1" /></p>
