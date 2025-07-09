@@ -10,13 +10,6 @@
 - 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **Laravel, React**
 - 📫 How to reach me **Mavinemalin@gmail.com**
-
-⭐ **Total Stars Earned:** ![GitHub User's stars](https://img.shields.io/github/stars/mavine1?style=flat-square&color=yellow)  
-🕐 **Total Commits:** ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mavine1/mavine1?style=flat-square&color=green)  
-🔀 **Total PRs:** ![GitHub pull requests](https://img.shields.io/github/issues-pr/mavine1/mavine1?style=flat-square&color=blue)  
-⚠️ **Total Issues:** ![GitHub issues](https://img.shields.io/github/issues/mavine1/mavine1?style=flat-square&color=red)  
-📅 **Contributed to (last year):** Active contributor  
-
 <br clear="both"/>
 
 ## 🛠️ Some Tools I Use
