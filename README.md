@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/doublemagica" target="blank"><img src="https://img.shields.io/twitter/follow/doublemagica?logo=twitter&style=for-the-badge" alt="doublemagica" /></a> </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavine1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="mavine1" />
 
 - 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **Laravel, React**
