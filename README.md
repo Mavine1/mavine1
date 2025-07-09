@@ -60,8 +60,5 @@
 [![Hire Me](https://img.shields.io/badge/Hire_Me-FFD700?style=for-the-badge&logo=handshake&logoColor=black)](mailto:Mavinemalin@gmail.com)
 
 ## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavine1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="mavine1" /> 
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mavine1&theme=dark&hide_border=true" alt="mavine1" /></p>
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavine1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="mavine1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mavine1&show_icons=true&theme=dark&hide_border=true" alt="mavine1" /></p>
