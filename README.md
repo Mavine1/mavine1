@@ -1,15 +1,11 @@
 # Hey, 👋 I'm a Full Stack Developer
-
-<h3 align="center">A passionate fullStack developer from Kenya</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavine1&label=Profile%20views&color=0e75b6&style=flat" alt="mavine1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mavine1" alt="mavine1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/doublemagica" target="blank"><img src="https://img.shields.io/twitter/follow/doublemagica?logo=twitter&style=for-the-badge" alt="doublemagica" /></a> </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mavine1&show_icons=true&theme=dark&hide_border=true" alt="mavine1" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mavine1&theme=dark&hide_border=true" alt="mavine1" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavine1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="mavine1" />
 
 - 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **Laravel, React**
@@ -72,3 +68,11 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your_username)
 [![Hire Me](https://img.shields.io/badge/Hire_Me-FFD700?style=for-the-badge&logo=handshake&logoColor=black)](mailto:Mavinemalin@gmail.com)
 
+## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavine1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="mavine1" /> 
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mavine1&theme=dark&hide_border=true" alt="mavine1" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mavine1&show_icons=true&theme=dark&hide_border=true" alt="mavine1" /></p>
+
+![WakaTime](https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge)
