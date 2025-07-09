@@ -10,7 +10,6 @@
 - 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **Laravel, React**
 - 📫 How to reach me **Mavinemalin@gmail.com**
-<br clear="both"/>
 
 ## 🛠️ Some Tools I Use
 
