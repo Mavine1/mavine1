@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mavine1" alt="mavine1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/doublemagica" target="blank"><img src="https://img.shields.io/twitter/follow/doublemagica?logo=twitter&style=for-the-badge" alt="doublemagica" /></a> </p>
+
 - 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **Laravel, React**
 - 📫 How to reach me **Mavinemalin@gmail.com**
