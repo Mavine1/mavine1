@@ -4,8 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mavine1" alt="mavine1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/doublemagica" target="blank"><img src="https://img.shields.io/twitter/follow/doublemagica?logo=twitter&style=for-the-badge" alt="doublemagica" /></a> </p>
-
-
 - 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **Laravel, React**
 - 📫 How to reach me **Mavinemalin@gmail.com**
@@ -58,7 +56,6 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your_username)
 [![Hire Me](https://img.shields.io/badge/Hire_Me-FFD700?style=for-the-badge&logo=handshake&logoColor=black)](mailto:Mavinemalin@gmail.com)
-
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats-taupe-delta-64.vercel.app//api/top-langs?username=mavine1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="mavine1" /></p>
 <p><img align="center" src="https://github-readme-stats-taupe-delta-64.vercel.app//api?username=mavine1&show_icons=true&theme=dark&hide_border=true" alt="mavine1" /></p>
