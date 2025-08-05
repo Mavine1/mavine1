@@ -58,5 +58,5 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your_username)
 [![Hire Me](https://img.shields.io/badge/Hire_Me-FFD700?style=for-the-badge&logo=handshake&logoColor=black)](mailto:Mavinemalin@gmail.com)
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats-taupe-delta-64.vercel.app/api/top-langs?username=mavine1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="mavine1" /></p>
-<p><img align="center" src="https://github-readme-stats-taupe-delta-64.vercel.app/api?username=mavine1&show_icons=true&theme=dark&hide_border=true" alt="mavine1" /></p>
+<p><img align="left" src="https://github-readme-stats-git-master-mavines-projects-0d5380b8.vercel.app/api/top-langs?username=mavine1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="mavine1" /></p>
+<p><img align="center" src="https://github-readme-stats-git-master-mavines-projects-0d5380b8.vercel.app/api?username=mavine1&show_icons=true&theme=dark&hide_border=true" alt="mavine1" /></p>
