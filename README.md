@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mavine1" alt="mavine1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/doublemagica" target="blank"><img src="https://img.shields.io/twitter/follow/doublemagica?logo=twitter&style=for-the-badge" alt="doublemagica" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@tech_mavine" target="blank"><img src="https://img.shields.io/twitter/follow/doublemagica?logo=twitter&style=for-the-badge" alt="doublemagica" /></a> </p>
 
 - 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **Laravel, React**
@@ -46,7 +46,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@tech_mavine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mavine-muganda)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mugandamavine7139)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mavinemuganda.vercel.app/)
 [![Hire Me](https://img.shields.io/badge/Hire_Me-FFD700?style=for-the-badge&logo=handshake&logoColor=black)](mailto:Mavinemalin@gmail.com)
 ## 📊 GitHub Stats
