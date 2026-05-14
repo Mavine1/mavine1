@@ -1,4 +1,4 @@
-# Hey, 👋 I'm Muganda Mavine Andika
+# Hey, 👋 I'm Muganda Mavine
 **Full-Stack Developer · MERN Stack · Django · React Native**
 > Passionate about building full-stack web and mobile applications. Experience across agri-tech, enterprise support, and sales ops. Looking to contribute to scalable product development and modern DevOps workflows.
 ## 🛠️ Some Tools I Use
