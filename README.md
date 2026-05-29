@@ -39,4 +39,3 @@
 ---
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats-taupe-delta-64.vercel.app/api/top-langs?username=mavine1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="mavine1" /></p>
-<p><img align="center" src="https://github-readme-stats-taupe-delta-64.vercel.app/api?username=mavine1&show_icons=true&theme=dark&hide_border=true" alt="mavine1" /></p>
